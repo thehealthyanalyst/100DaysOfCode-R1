@@ -1,0 +1,5 @@
+Tutorial from Medium:
+https://towardsdatascience.com/the-simplest-data-science-project-using-pandas-matplotlib-9d7042e7ce6f
+
+Fixed the character encoding problem by using the chardet package:
+https://www.kaggle.com/rtatman/data-cleaning-challenge-character-encodings
